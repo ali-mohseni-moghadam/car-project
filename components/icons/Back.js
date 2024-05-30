@@ -1,6 +1,6 @@
 function Back() {
   return (
-    <svg width="30px" x="0px" y="0px" viewBox="0 0 300.003 300.003">
+    <svg width="25px" x="0px" y="0px" viewBox="0 0 300.003 300.003">
       <g>
         <g>
           <path
